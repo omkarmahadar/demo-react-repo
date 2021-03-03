@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import {CapButton} from '@capillarytech/cap-ui-library';
 function App() {
   return (
     <div className="App">
